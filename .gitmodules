@@ -1,0 +1,3 @@
+[submodule "JSB-Chorales-dataset"]
+	path = JSB-Chorales-dataset
+	url = git@github.com:czhuang/JSB-Chorales-dataset.git
